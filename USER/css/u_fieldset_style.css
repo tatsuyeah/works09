@@ -1,0 +1,36 @@
+form{
+    margin: 0;
+    padding: 0;
+}
+fieldset#fs{
+    width: 720;
+}
+
+legend{
+    text-align: center;
+    border: none;
+}
+
+fieldset ol{
+    display: block;
+    width: 600px;
+    margin: 20px auto 40px;
+    padding: 0;
+    
+}
+fieldset ol li{
+    display: block;
+    width: 600px;
+    padding: 16px;
+    list-style: none;
+    border-bottom: 1px solid #aaaaaa;
+}
+
+input[type=submit],
+input[type=button]{
+    display: block;
+    width: 200px;
+    margin: 16px auto;
+}
+
+        
